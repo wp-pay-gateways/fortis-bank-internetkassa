@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: Fortis Bank - iDEAL Internet Kassa
+# [DEPRECATED] WordPress Pay Gateway: Fortis Bank - iDEAL Internet Kassa
 
 **Fortis Bank - iDEAL Internet Kassa driver for the WordPress payment processing library.**
 
