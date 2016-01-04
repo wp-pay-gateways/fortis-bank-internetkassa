@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: Fortis Bank - iDEAL Internet Kassa integration
+ * Title: Fortis Bank - iDEAL Internet Kassa - Integration
  * Description:
  * Copyright: Copyright (c) 2005 - 2015
  * Company: Pronamic

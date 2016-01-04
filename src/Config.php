@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: Fortis Bank - iDEAL Internet Kassa config
+ * Title: Fortis Bank - iDEAL Internet Kassa - Config
  * Description:
  * Copyright: Copyright (c) 2005 - 2015
  * Company: Pronamic
